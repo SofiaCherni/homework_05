@@ -104,3 +104,18 @@ body {
     color: #a11414;
     text-decoration: underline;
 }
+
+/* 10 */
+.article__text--spec {
+    text-transform: uppercase; /* верхній рєєстор*/
+}
+
+/* 10 */
+.article__text--mod {
+    color: #a11414;
+}
+
+/* 10 */
+.article__text--add {
+    text-decoration: line-through; /* закреслення */
+}
