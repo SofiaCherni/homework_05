@@ -2,6 +2,8 @@
 
 /* 1 */
 body {
+    background: #b4b4b4 url("../images/pink-flowers.png") bottom repeat;
+    background-attachment: fixed; /*фіксація зображення*/
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
