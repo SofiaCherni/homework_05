@@ -42,3 +42,25 @@ body {
 .header__img-wrap img {
     width: 100%;
 }
+
+/* 20 -> 2classes - 10 + 10 */
+.section--flo .article {
+    float: left;
+    width: 85%;
+    margin-right: 3px;
+}
+
+/* 10 */
+.article__heading {
+    color: #a11414;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+/* 10 */
+.article__item {
+    color: #1d1b1b;
+    text-indent: 40px; /* отступ */
+    margin-bottom: 31px;
+}
