@@ -9,6 +9,13 @@ body {
 }
 
 /* 10 */
+.section--flo {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* 10 */
 .wrapper {
     width: 88%;
     margin: 0 auto;
